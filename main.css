@@ -1,0 +1,27 @@
+
+.image{
+    display: flex;
+    justify-content:center ;
+}
+.info{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content:center ;
+}
+#about{
+    background-color: rgb(151, 124, 124);
+    margin: 5px;
+    border-radius: 8px;
+    
+}
+#connect{
+    background-color: rgb(197, 153, 153);
+    margin: 5px;
+   border-radius: 8px;
+}
+#contact{
+    background-color: rgb(244, 195, 195);
+    margin: 5px;
+    border-radius: 8px;
+}
